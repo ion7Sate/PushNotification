@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lab_1</string>
+    <string name="button_search">Search</string>
+    <string name="edit_text">Input text</string>
+    <string name="button_push_notification">Push Notification</string>
+    <string name="take_picture">Take a Picture</string>
+    <string name="front_camera">Front Camera</string>
+    <string name="back_camera">Back Camera</string>
+    <string name="BtnGallery">Gallery Buttton</string>
+    <string name="camera_activity_info">Camera Activity</string>
+    <string name="back_main_activity">Back Home Activity</string>
+    <string name="second_activity">View Image</string>
+</resources>
